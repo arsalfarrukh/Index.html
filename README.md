@@ -76,8 +76,10 @@
   </ul>
   <p> This is a project for a class assignment that I have created in the past. It is written in the Java programming language.</p>
   <p> The basic premise was to create a Tic-Tac-Toe game that is easy to use and interactive. The user is one of the players and</p>
-  <p> is essentially like playing against a computer. Here is a link of the Java File with the code for the project/assingment:</p>
+  <p> is essentially like playing against a computer. Here is a link of the Java File with the code for the project/assingnment:</p>
   <p><a href="GamePlayGUI (1).java">GamePlayGUI (1).java</a></p>
+  <p> This link demonstrates the full code used in a GitHub repository for easy viewing. Here is a screenshot of some of what you will be viewing in case link does not work: </p>
+  
   
     
     <div class="row">
