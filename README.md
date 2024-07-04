@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Personal Portfolio and Blog</title>
+  <title>Personal Portfolio</title>
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
   <!-- Custom CSS -->
@@ -13,7 +13,7 @@
 
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="#">Your Name</a>
+    <a class="navbar-brand" href="#">Arsal Farrukh</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -40,8 +40,8 @@
 
   <!-- Home Page -->
   <section id="home" class="container mt-5">
-    <h1>Hi There! My name is Arsal Farrukh, and I am an Information Technology (BA) student who is attending York University full-time.</h1>
-    <h1>My Age is 22, and I live in Toronto, Canada.
+    <h3>Hi There! My name is Arsal Farrukh, and I am an Information Technology (BA) student who is attending York University full-time.</h3>
+    <h3>My Age is 22, and I live in Toronto, Canada.
     <p>3020 project</p>
     
    
