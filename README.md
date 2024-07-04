@@ -107,10 +107,10 @@
 
   <!-- Contact Page -->
   <section id="contact" class="container mt-5">
-    
-    <h2>Contact Information</h2>
      <p> I very much appreciate you taking the time to review my Website. I hope you have learned something valuable. Lastly, I would like to</p>
     <p> include my contact information for future reference. Hope you reach out!</p>
+    <h2>Contact Information</h2>
+     
     <form>
       <div class="form-group">
         <label for="name">Name</label>
