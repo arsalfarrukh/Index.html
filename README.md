@@ -144,12 +144,12 @@
     </form>
   </section>
 
-  <!-- Footer -->
-  <footer class="footer mt-5 py-3 bg-dark text-white">
-    <div class="container text-center">
-      <p>&copy; 2024 Arsal Farrukh. Website is owned by Arsal Farrukh.</p>
-    </div>
-  </footer>
+ <!-- Footer -->
+<footer class="footer mt-5 py-3 bg-dark text-white">
+  <div class="container text-center">
+    <p style="color: red; font-size: 1.2em;">&copy; 2024 Arsal Farrukh. Website is owned by Arsal Farrukh.</p>
+  </div>
+</footer>
 
   <!-- Bootstrap JS and dependencies -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
