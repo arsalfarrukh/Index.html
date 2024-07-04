@@ -72,7 +72,7 @@
   <section id="projects" class="container mt-5">
     <h2>Here is a list of my projects:</h2>
    <ul>
-    <li>Tic-Tac-Toe game: <img src="" alt="Tic-Tac-Toe Game Image"></li>
+    <li>Tic-Tac-Toe game: <img src="Tictactoe-winning-vector-639732.webp" alt="Tic-Tac-Toe Game Image"></li>
   </ul>
     
     <div class="row">
