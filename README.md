@@ -102,6 +102,7 @@
   <section id="blog" class="container mt-5">
     <h2>Blog</h2>
     <p>Note: My Blog page will contain even more in-depth info relating to myself and my career; it will be an breathtaking experience. Stay Tuned!</p>
+    <img src="images.jpg" alt="Blog Image">
   </section>
 
   <!-- Contact Page -->
