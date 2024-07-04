@@ -50,8 +50,8 @@
   <!-- About Me Page -->
   <section id="about" class="container mt-5">
     <h6>About Me</h6>
-    <h3>Biography</h3>
-    <p>Your detailed biography goes here.</p>
+    
+    <p> Hi There! My name is Arsal Farrukh. I am currently an Information Technology(BA) student, who is attending York University </p>
     <h3>Resume</h3>
     <p>Embed your resume or provide a download link.</p>
     <!-- Include other content for about me page as needed -->
