@@ -101,7 +101,7 @@
   <!-- Blog Page -->
   <section id="blog" class="container mt-5">
     <h2>Blog</h2>
-    <p>Note: Specification of the Blog Page will be completed in Assignment 2.</p>
+    <p>Note: My Blog page will contain even more in-depth info relating to myself and my career; it will be an breathtaking experience. Stay Tuned!</p>
   </section>
 
   <!-- Contact Page -->
