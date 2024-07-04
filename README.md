@@ -54,8 +54,9 @@
     <p> My furthest completed education is obtaining a high school diploma. I am also, as mentioned, partway though an IT degree at York </p>
     <p> and hope to finish by end of next year (2025). My skills so far mostly revolve around my current IT education, such as experience with</p>
     <p> coding languages, data, and computer hardware infrastructure, all of which are important in any IT field. My Interests include IT related</p>
-    <p> topics. Outside this, I enjoy watching sports and playing video games.</p>
-    <h3>Resume</h3>
+    <p> topics. Outside this, I enjoy watching sports and playing video games. Feel free to reach out as I enjoy making connections and furthering</p>
+    <p> my career. For reference, Here is my resume which I am sure will help with these goals:</p>
+    <h3> My Resume:</h3>
     <p>Embed your resume or provide a download link.</p>
     <!-- Include other content for about me page as needed -->
   </section>
