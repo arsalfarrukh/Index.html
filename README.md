@@ -1,81 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
-    <style>
-        /* Basic Styles for Navbar */
-        .navbar {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            background-color: #343a40;
-            padding: 0.5rem 1rem;
-            color: white;
-        }
-        .navbar-brand {
-            font-size: 1.25rem;
-            color: white;
-            text-decoration: none;
-        }
-        .navbar-toggler {
-            display: none;
-            background-color: #343a40;
-            border: none;
-            color: white;
-            font-size: 1.25rem;
-        }
-        .navbar-nav {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            display: flex;
-        }
-        .nav-item {
-            margin-left: 1rem;
-        }
-        .nav-link {
-            color: white;
-            text-decoration: none;
-        }
-        .nav-link:hover {
-            text-decoration: none; /* Ensure no underline on hover */
-        }
-        /* Styles for Collapsible Menu */
-        .collapse {
-            display: none;
-        }
-        .collapse.show {
-            display: flex;
-            flex-direction: column;
-            position: absolute;
-            top: 100%;
-            left: 0;
-            width: 100%;
-            background-color: #343a40;
-            z-index: 1000;
-        }
-        .collapse.show .nav-item {
-            text-align: center;
-            margin: 0;
-            padding: 0.5rem 0;
-        }
-        /* Responsive Styles */
-        @media (max-width: 768px) {
-            .navbar-nav {
-                flex-direction: column;
-                position: relative; /* Ensure position relative for absolute positioning in .collapse.show */
-            }
-            .navbar-toggler {
-                display: inline-block;
-            }
-            .navbar-nav.show {
-                display: flex;
-                width: 100%;
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
 
