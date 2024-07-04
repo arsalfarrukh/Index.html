@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
     <style>
-       
+        /* Basic Styles for Navbar */
         .navbar {
             display: flex;
             justify-content: space-between;
@@ -40,7 +40,7 @@
             text-decoration: none;
         }
         .nav-link:hover {
-            text-decoration: underline;
+            text-decoration: none; /* Ensure no underline on hover */
         }
         /* Styles for Collapsible Menu */
         .collapse {
