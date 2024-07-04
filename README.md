@@ -49,7 +49,7 @@
 
   <!-- About Me Page -->
   <section id="about" class="container mt-5">
-    <h2>About Me</h2>
+    <h6>About Me</h6>
     <h3>Biography</h3>
     <p>Your detailed biography goes here.</p>
     <h3>Resume</h3>
