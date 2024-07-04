@@ -115,7 +115,9 @@
     <p> include my contact information for future reference. Also, feel free to include your own contact info as well. Hope you reach out!</p>
     <h2>Contact Information</h2>
 
-    <p>Feel free to <a href="mailto:arsalfarrukh96@gmail.com">contact me via email</a>.</p>
+   <a href="mailto:arsalfarrukh96@gmail.com">
+  <i class="far fa-envelope"></i> arsalfarrukh96@gmail.com
+</a>
     <p>Connect with me on LinkedIn: 
     <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
       <i class="fab fa-linkedin"></i> Your LinkedIn Name
