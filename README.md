@@ -74,6 +74,9 @@
    <ul>
     <li>Tic-Tac-Toe game: <img src="Tictactoe-winning-vector-639732.webp" alt="Tic-Tac-Toe Game Image"></li>
   </ul>
+  <p> This is a project for a class assignment that I have created in the past. It is written in the Java programming language.</p>
+  <p> The basic premise was to create a Tic-Tac-Toe game that is easy to use and interactive. The user is one of the players and</p>
+  <p> is essentially like playing against a computer</p>
     
     <div class="row">
       <div class="col-md-4">
