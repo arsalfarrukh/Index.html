@@ -116,6 +116,7 @@
     <h2>Contact Information</h2>
 
     <p>Feel free to <a href="mailto:arsalfarrukh96@gmail.com">contact me via email</a>.</p>
+    <a href="https://www.instagram.com/yourusername" target="_blank">
     
      
     <form>
