@@ -40,9 +40,9 @@
 
   <!-- Home Page -->
   <section id="home" class="container mt-5">
-    <h3>Hi There! My name is Arsal Farrukh, and I am an Information Technology (BA) student who is attending York University full-time.</h3>
-    <h3>My Age is 22, and I live in Toronto, Canada.
-    <p>3020 project</p>
+    <h3>Hi There! My name is Arsal Farrukh, and I am an Information Technology (BA) student who is attending York University full-time. My Age is 22, and I live in Toronto, Canada. </h3>
+    
+    
     
    
     
