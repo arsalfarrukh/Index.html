@@ -63,7 +63,7 @@
       <li> Handling hardware related to computers, such as dealing with computer networks</li>
       <li> I enjoy playing sports and vidoe games</li>
     </ul>
-    <p> I have also included my resume so you can see my progress in real time.</p>
+    <p> I have also included my resume so you can see my progress in real time. It can be downloaded as well easily for easy reference</p>
     <h3> Here is my Resume:</h3>
    
   <iframe src="Resume Arsal Farrukh 2024.pdf" width="100%" height="500px"></iframe>
