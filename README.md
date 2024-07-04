@@ -4,11 +4,71 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
+        /* Basic Styles for Navbar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #343a40;
+            padding: 0.5rem 1rem;
+            color: white;
+        }
+        .navbar-brand {
+            font-size: 1.25rem;
+            color: white;
+            text-decoration: none;
+        }
+        .navbar-toggler {
+            display: none;
+            background-color: #343a40;
+            border: none;
+            color: white;
+            font-size: 1.25rem;
+        }
         .navbar-nav {
-            list-style: none; /* Remove bullet points */
-            padding-left: 0;
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+        .nav-item {
+            margin-left: 1rem;
+        }
+        .nav-link {
+            color: white;
+            text-decoration: none;
+        }
+        .nav-link:hover {
+            text-decoration: underline;
+        }
+        /* Styles for Collapsible Menu */
+        .collapse {
+            display: none;
+        }
+        .collapse.show {
+            display: flex;
+            flex-direction: column;
+        }
+        /* Responsive Styles */
+        @media (max-width: 768px) {
+            .navbar-nav {
+                display: none;
+                flex-direction: column;
+                width: 100%;
+                background-color: #343a40;
+            }
+            .navbar-nav.show {
+                display: flex;
+            }
+            .navbar-toggler {
+                display: inline-block;
+            }
+            .nav-item {
+                margin: 0;
+                text-align: center;
+                padding: 0.5rem 0;
+            }
         }
     </style>
 </head>
