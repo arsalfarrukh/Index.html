@@ -56,13 +56,14 @@
     <p> coding languages, data, and computer hardware infrastructure, all of which are important in any IT field. My Interests include IT related</p>
     <p> topics. Outside this, I enjoy watching sports and playing video games. Feel free to reach out as I enjoy making connections and furthering</p>
     <p> my career. For reference, I have included my resume which I am sure will help with these goals.</p>
-    <p> In conculsion, here is a summary of my skills and hobbies:</p>
+    <p> In conclusion, here is a summary of my skills and hobbies:</p>
     <ul> 
      <li> Experience with coding languages such as Python, Matlab, and others</li> 
       <li> Handling data, particularly in the realm of data analytics</li>
       <li> Handling hardware related to computers, such as dealing with computer networks</li>
       <li> I enjoy playing sports and vidoe games</li>
     </ul>
+    <p> I have also included my resume so you can see my progress in real time.</p>
     <h3> Here is my Resume:</h3>
    
   <iframe src="Resume Arsal Farrukh.pdf" width="100%" height="500px"></iframe>
