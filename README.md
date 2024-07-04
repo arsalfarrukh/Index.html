@@ -94,19 +94,8 @@
   
   
     
-    <div class="row">
-      <div class="col-md-4">
-        <div class="card mb-4">
-          <img class="card-img-top" src="project1.jpg" alt="Project 1">
-          <div class="card-body">
-            <h5 class="card-title">Project 1</h5>
-            <p class="card-text">Project description.</p>
-            <a href="#" class="btn btn-primary">View Project</a>
-          </div>
-        </div>
-      </div>
-      <!-- Add more project cards as needed -->
-    </div>
+   
+    
   </section>
 
   <!-- Blog Page -->
