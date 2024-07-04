@@ -5,6 +5,64 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        /* Custom CSS */
+        /* Navbar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #343a40;
+            padding: 0.5rem 1rem;
+            color: white;
+        }
+        .navbar-brand {
+            font-size: 1.25rem;
+            color: white;
+            text-decoration: none;
+        }
+        .navbar-toggler {
+            display: none;
+            background-color: #343a40;
+            border: none;
+            color: white;
+            font-size: 1.25rem;
+        }
+        .navbar-nav {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+        .nav-item {
+            margin-left: 1rem;
+        }
+        .nav-link {
+            color: white;
+            text-decoration: none;
+        }
+        .nav-link:hover {
+            text-decoration: underline;
+        }
+        /* Sections */
+        section {
+            margin-top: 3rem;
+            margin-bottom: 3rem;
+        }
+        h2 {
+            margin-bottom: 1.5rem;
+        }
+        /* Footer */
+        footer {
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
 
@@ -33,7 +91,7 @@
 </nav>
 
 <!-- Home Section -->
-<section id="home" class="container mt-5">
+<section id="home" class="container">
     <div class="row">
         <div class="col-md-6">
             <h1>Welcome to My Portfolio</h1>
@@ -46,7 +104,7 @@
 </section>
 
 <!-- About Me Section -->
-<section id="about" class="container mt-5">
+<section id="about" class="container">
     <h2>About Me</h2>
     <div class="row">
         <div class="col-md-6">
@@ -70,7 +128,7 @@
 </section>
 
 <!-- Projects Section -->
-<section id="projects" class="container mt-5">
+<section id="projects" class="container">
     <h2>Projects</h2>
     <div class="row">
         <div class="col-md-4 mb-4">
@@ -107,7 +165,7 @@
 </section>
 
 <!-- Contact Section -->
-<section id="contact" class="container mt-5">
+<section id="contact" class="container">
     <h2>Contact Me</h2>
     <div class="row">
         <div class="col-md-6">
@@ -152,6 +210,10 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<script>
+    // Custom JavaScript
+</script>
 
 </body>
 </html>
