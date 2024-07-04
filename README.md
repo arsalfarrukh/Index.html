@@ -46,7 +46,7 @@
     
    
     
-  </section>
+  <section>
 
   <!-- About Me Page -->
   <section id="about" class="container mt-5">
@@ -63,9 +63,12 @@
       <li> Handling hardware related to computers, such as dealing with computer networks</li>
       <li> I enjoy playing sports and vidoe games</li>
     </ul>
-    <h3> My Resume:</h3>
-    <p>Embed your resume or provide a download link.</p>
-    <!-- Include other content for about me page as needed -->
+    <h3> Here is my Resume:</h3>
+   
+  <iframe src="path/to/your-resume.pdf" width="100%" height="500px"></iframe>
+  
+  
+  <p><a href="path/to/your-resume.pdf" class="btn btn-primary" download>Download Resume as PDF</a></p>
   </section>
 
   <!-- Projects Page -->
