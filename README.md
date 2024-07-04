@@ -65,10 +65,10 @@
     </ul>
     <h3> Here is my Resume:</h3>
    
-  <iframe src="path/to/your-resume.pdf" width="100%" height="500px"></iframe>
+  <iframe src="Resume Arsal Farrukh.pdf" width="100%" height="500px"></iframe>
   
   
-  <p><a href="path/to/your-resume.pdf" class="btn btn-primary" download>Download Resume as PDF</a></p>
+  <p><a href="Resume Arsal Farrukh.pdf" class="btn btn-primary" download>Download Resume as PDF</a></p>
   </section>
 
   <!-- Projects Page -->
