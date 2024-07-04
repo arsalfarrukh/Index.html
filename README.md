@@ -116,7 +116,11 @@
     <h2>Contact Information</h2>
 
     <p>Feel free to <a href="mailto:arsalfarrukh96@gmail.com">contact me via email</a>.</p>
-    <a href="https://www.instagram.com/yourusername" target="_blank">
+    <p>Connect with me on LinkedIn: 
+    <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+      <i class="fab fa-linkedin"></i> Your LinkedIn Name
+    </a>
+  </p>
     
      
     <form>
