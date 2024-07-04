@@ -135,7 +135,7 @@
   <!-- Footer -->
   <footer class="footer mt-5 py-3 bg-dark text-white">
     <div class="container text-center">
-      <p>&copy; 2024, Arsal Farrukh. Website is owned by Arsal Farrukh</p>
+      <p>&copy; 2024 Arsal Farrukh. Website is owned by Arsal Farrukh.</p>
     </div>
   </footer>
 
