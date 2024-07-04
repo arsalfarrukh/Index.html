@@ -40,7 +40,7 @@
             text-decoration: none;
         }
         .nav-link:hover {
-            text-decoration: none;
+            text-decoration: underline;
         }
         /* Styles for Collapsible Menu */
         .collapse {
