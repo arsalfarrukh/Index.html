@@ -71,9 +71,10 @@
   <!-- Projects Page -->
   <section id="projects" class="container mt-5">
     <h2>Here is a list of my projects:</h2>
-    <ul> 
-      <li> Tic-Tac-Toe game:</li>
-    </ul>
+   <ul>
+    <li>Tic-Tac-Toe game: <img src="" alt="Tic-Tac-Toe Game Image"></li>
+  </ul>
+    
     <div class="row">
       <div class="col-md-4">
         <div class="card mb-4">
