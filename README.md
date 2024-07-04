@@ -82,7 +82,7 @@
   <img src="Screenshot 2024-07-04 161401.png" alt="Screenshot of Tic-Tac-Toe Game">
 
   <ul> 
-    2. Data Structures Project: 
+    2. Data Structures Project: <img src="0_iVjz5z5UOsm0rL6J.jpg" alt="Data Structures Image"> 
   </ul>
   
   
