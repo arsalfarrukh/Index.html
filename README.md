@@ -108,7 +108,7 @@
   <!-- Contact Page -->
   <section id="contact" class="container mt-5">
      <p> I very much appreciate you taking the time to review my Website. I hope you have learned something valuable. Lastly, I would like to</p>
-    <p> include my contact information for future reference. Hope you reach out!</p>
+    <p> include my contact information for future reference. Also, feel free to include your own contact info as well. Hope you reach out!</p>
     <h2>Contact Information</h2>
      
     <form>
