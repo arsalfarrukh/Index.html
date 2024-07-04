@@ -3,9 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arsal Farrukh Portfolio</title>
+    <title>Portfolio</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        .navbar-nav {
+            list-style: none; /* Remove bullet points */
+            padding-left: 0;
+        }
+    </style>
 </head>
 <body>
 
