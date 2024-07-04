@@ -40,11 +40,11 @@
 
   <!-- Home Page -->
   <section id="home" class="container mt-5">
-    <h1>Assignment 1: Personal Portfolio and Blog Layout</h1>
-    <p>ITEC 3020 - Summer</p>
-    <p>You can work individually or in pairs for this assignment.</p>
-    <p>Objective: Create a comprehensive personal portfolio website that includes a blog section.</p>
-    <!-- Include other content for home page as needed -->
+    <h1>Arsal Farrukh Portfolio</h1>
+    <p>3020 project</p>
+    
+   
+    
   </section>
 
   <!-- About Me Page -->
