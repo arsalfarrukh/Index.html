@@ -55,12 +55,13 @@
     <p> and hope to finish by end of next year (2025). My skills so far mostly revolve around my current IT education, such as experience with</p>
     <p> coding languages, data, and computer hardware infrastructure, all of which are important in any IT field. My Interests include IT related</p>
     <p> topics. Outside this, I enjoy watching sports and playing video games. Feel free to reach out as I enjoy making connections and furthering</p>
-    <p> my career. For reference, Here is my resume which I am sure will help with these goals:</p>
-    <p> In conculsion, here is a summary of my skills:</p>
+    <p> my career. For reference, I have included my resume which I am sure will help with these goals.</p>
+    <p> In conculsion, here is a summary of my skills and hobbies:</p>
     <ul> 
      <li> Experience with coding languages such as Python, Matlab, and others</li> 
       <li> Handling data, particularly in the realm of data analytics</li>
       <li> Handling hardware related to computers, such as dealing with computer networks</li>
+      <li> I enjoy playing sports and vidoe games</li>
     </ul>
     <h3> My Resume:</h3>
     <p>Embed your resume or provide a download link.</p>
