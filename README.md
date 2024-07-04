@@ -40,7 +40,8 @@
 
   <!-- Home Page -->
   <section id="home" class="container mt-5">
-    <h1>Arsal Farrukh Portfolio</h1>
+    <h1>Hi There! My name is Arsal Farrukh, and I am an Information Technology (BA) student who is attending York University full-time.</h1>
+    <h1>My Age is 22, and I live in Toronto, Canada.
     <p>3020 project</p>
     
    
@@ -49,8 +50,11 @@
 
   <!-- About Me Page -->
   <section id="about" class="container mt-5">
-    <h6>About Me</h6>
-    <p> Hi There! My name is Arsal Farrukh. I am currently an Information Technology(BA) student, who is attending York University </p>
+    <h2>About Me</h2>
+    <p> My furthest completed education is obtaining a high school diploma. I am also, as mentioned, partway though an IT degree at York </p>
+    <p> and hope to finish by end of next year (2025). My skills so far mostly revolve around my current IT education, such as experience with</p>
+    <p> coding languages, data, and computer hardware infrastructure, all of which are important in any IT field. My Interests include IT related</p>
+    <p> topics. Outside this, I enjoy watching sports and playing video games.</p>
     <h3>Resume</h3>
     <p>Embed your resume or provide a download link.</p>
     <!-- Include other content for about me page as needed -->
