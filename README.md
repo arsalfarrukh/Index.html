@@ -84,6 +84,10 @@
   <ul> 
     2. Data Structures Project: <img src="0_iVjz5z5UOsm0rL6J.jpg" alt="Data Structures Image"> 
   </ul>
+  <p> This project involved creating various Data Structures, such as Linked Lists and Binary Trees, very important concepts for any IT field.</p>
+  <p> The goal was to gain more experience with using the data structures, as well as to help grasp all the important topics mentioned, and to provide</p>
+  <p> a smooth, interactive experience for any potential users so they can easily learn as well. Here is the Java code used for thus project:</p>
+  
   
   
     
